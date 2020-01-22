@@ -1,2 +1,2 @@
 # monero-android
-monero classic android wallet
+monero rub android wallet
